@@ -4,10 +4,11 @@
 
     ; Version         1.00
     ; Author:         Darius Kryszczuk
-    ; Web:            https://github.com/ TODO
+    ; Web:            https://github.com/krynecouk/arctic-duck-storm
     ;
-    ; Game where the player controls a duck flying through a snowstorm. Goal
-    ; is to fly as fast as possible without hitting any of the snow ball.
+    ; Arctic Duck Storm is a game where player controls a duck flying through an
+    ; arctic storm. Goal of the game is to gain as many points as possible by
+    ; avoiding falling snowballs.
     ;
     ; See README.txt for compile instructions and how to play the game.
 
