@@ -12,9 +12,9 @@ Online with [Javatari emulator](https://8bitworkshop.com/v3.6.0/embed.html?p=vcs
 
 ## Prerequisites
 
-- [CMake](https://cmake.org/)
 - [dasm](https://dasm-assembler.github.io/)
 - [Stella](https://stella-emu.github.io/)
+- `make` (platform specific)
 
 ## Compilation
 
